@@ -1,0 +1,13 @@
+
+.navbar .navbar-expand-md .navbar-dark {
+background-color: black;
+} 
+
+a .nav-link {
+	color: #FFFFFF;
+} 
+
+.jumbotron{
+	text-align: center;
+	background-color: #FF4500;
+}
